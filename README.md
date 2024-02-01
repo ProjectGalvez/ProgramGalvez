@@ -20,7 +20,7 @@ git clone https://github.com/ktigmtggtkm1234/ProgramGalvez.git
 2. **Instalar Dependencias:**
 
 ```
-cd registro-documentos
+cd sistema-registro
 composer install
 npm install
 ```
