@@ -1,8 +1,8 @@
-# Proyecto Registro documentos - Instrucciones de Instalación
+# Proyecto  sistema-registro - Instrucciones de Instalación
 
 ## Requisitos Previos
 
--   PHP >= 7.4
+-   PHP >= 8.2
 -   Composer
 -   Node.js y npm
 -   Servidor web (por ejemplo, Apache o Nginx)
@@ -14,7 +14,7 @@
 1. **Clonar el Repositorio:**
 
 ```
-git clone https://github.com/mateoworks/registro-documentos
+git clone https://github.com/ktigmtggtkm1234/ProgramGalvez.git
 ```
 
 2. **Instalar Dependencias:**
